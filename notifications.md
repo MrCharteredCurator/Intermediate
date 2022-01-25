@@ -8,7 +8,7 @@ permalink: /notifications
 # Exam Notifications
 {: .fs-9 }
 
-👋 Hi! On this page I have curated for you all announcements and notifications by ICAI related to CA Intermediate. Find exam related notifications related to CA Intermediate on [Exam Notifications]({{ site.baseurl }}{% link /exam-notifications.md %}) page.
+👋 Hi! On this page I have curated for you all announcements and notifications by ICAI related to CA Intermediate. Find exam related notifications related to CA Intermediate on [Exam Notifications](/exam-notifications.md) page.
 {: .fs-6 .fw-300 }
 
 Wanna go to the original sources of these notifications?
