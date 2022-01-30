@@ -6,11 +6,10 @@ description: "Curating a No-nonsense knowledge-base for CA Intermediate Students
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Focus on studying and not finding 😉
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+We are curating useful resources for you to make your CA Inter journey easier. Presenting a curated knowledge-base for all your CA Intermediate needs. {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
@@ -18,9 +17,27 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ## Getting started
 
-### Dependencies
+### What is this site for?
+
+Today the Chartered Accountancy course has gained a fine amount of popularity, evidenced by the fact that the Internet and Marketplace looks flooded with information on this professional course. It gets a mention now and then on social media and television.
+
+And in this mess, we often find ourselve helpless, not because we are not able to decide whom to go with, but the plethora of sources you find, kinda creates a *brain fog* in your mind.
+
+I personally struggled to find the right resources at the right time. *Often* I have seen myself searching for yt videos and professors just 10-20 days before exam...sigh.
+
+So, I thought why not create a knowledge-base, a clean, clear, structured directory like site where you find almost all resources in time. 
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+
+### What you will find here?
+
+This site would we evolving time to time. I see it as a digital garden, yet a bit impersonal and more community focused. So, I decided a few objectives to start with.
+My objectives are:
+1. Curate core links to original sources and resources on ICAI.
+2. Present a better UI for these resources.
+3. Make 
+I have figured what resources can be helpful in the CA Inter journey. 
+So, to start with I have found these topics to curate first:
 
 ### Quick start: Use as a GitHub Pages remote theme
 
